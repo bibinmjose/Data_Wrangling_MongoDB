@@ -1,7 +1,7 @@
 Unzip the bz2 file "nashville_tennessee.osm.bz2" to the current directory
 run audit_data.py
 
-start an instance of mongodb on the maching by typing "mongod" in the terminal
+start an instance of mongodb on the machine by typing "mongod" in the terminal
 run clean_to_db.py to insert cleaned data into the database
 
 run queries as given in the ipython notebook for answering questions
